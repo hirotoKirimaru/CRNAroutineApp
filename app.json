@@ -26,5 +26,7 @@
       "supportsTablet": true,
       "bundleIdentifier": "nainai.routineApp"
     }
-  }
+  },
+  "name":"CRNAroutineApp",
+  "displayName":"CRNAroutineApp"
 }
